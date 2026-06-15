@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MARKET BREAKDOWN 5.0 | Institutional Market Analysis</title>
+
+    <meta name="description" content="Access MARKET BREAKDOWN 5.0. Real-time gold market analysis delivered directly to traders.">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="gold-glow"></div>
+
+<header>
+    <div class="logo">
+        MARKET BREAKDOWN <span>5.0</span>
+    </div>
+
+    <nav>
+        <a href="#about">About</a>
+        <a href="#features">Features</a>
+        <a href="#faq">FAQ</a>
+    </nav>
+</header>
+
+<section class="hero">
+
+    <div class="hero-content">
+
+        <div class="badge">
+            FREE PUBLIC BETA ACCESS
+        </div>
+
+        <h1>
+            Powered By <br>
+            <span>MARKET BREAKDOWN 5.0</span>
+        </h1>
+
+        <p>
+            The machine does the heavy lifting for traders,
+            delivering clear, logical gold trade ideas in real time.
+        </p>
+
+        <div class="hero-buttons">
+
+            <a href="#" class="btn-primary">
+                Get Free Access
+            </a>
+
+            <a href="#about" class="btn-secondary">
+                Learn More
+            </a>
+
+        </div>
+
+    </div>
+
+</section>
+
+<section id="about" class="section">
+
+    <div class="container">
+
+        <h2>The Problem</h2>
+
+        <p class="section-text">
+            Most traders spend hours staring at charts,
+            searching for opportunities and second-guessing decisions.
+            By the time they find a setup, the opportunity is often gone.
+        </p>
+
+        <div class="grid">
+
+            <div class="card">
+                <h3>Analysis Paralysis</h3>
+                <p>Too much information and no clear direction.</p>
+            </div>
+
+            <div class="card">
+                <h3>Emotional Trading</h3>
+                <p>Impulse decisions destroy consistency.</p>
+            </div>
+
+            <div class="card">
+                <h3>Missed Opportunities</h3>
+                <p>Quality setups appear and disappear quickly.</p>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<section class="section dark">
+
+    <div class="container">
+
+        <h2>Introducing MARKET BREAKDOWN 5.0</h2>
+
+        <p class="section-text">
+            A proprietary market analysis engine built to identify
+            high-probability gold trading opportunities and deliver
+            them directly to your device.
+        </p>
+
+        <div class="stats">
+
+            <div class="stat">
+                <h3>24/7</h3>
+                <span>Market Monitoring</span>
+            </div>
+
+            <div class="stat">
+                <h3>Real-Time</h3>
+                <span>Trade Ideas</span>
+            </div>
+
+            <div class="stat">
+                <h3>Free</h3>
+                <span>Beta Access</span>
+            </div>
+
+            <div class="stat">
+                <h3>XAUUSD</h3>
+                <span>Gold Focused</span>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<section id="features" class="section">
+
+    <div class="container">
+
+        <h2>What You Receive</h2>
+
+        <div class="grid">
+
+            <div class="card">
+                <h3>Entry Zone</h3>
+                <p>Clear trade entry levels.</p>
+            </div>
+
+            <div class="card">
+                <h3>Stop Loss</h3>
+                <p>Defined risk management.</p>
+            </div>
+
+            <div class="card">
+                <h3>Multiple Targets</h3>
+                <p>TP1, TP2 and TP3 included.</p>
+            </div>
+
+            <div class="card">
+                <h3>Market Context</h3>
+                <p>Structured trade reasoning.</p>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<section class="section dark">
+
+    <div class="container">
+
+        <h2>Sample Trade Setup</h2>
+
+        <div class="signal-card">
+
+            <div class="signal-header">
+                BUY XAUUSD
+            </div>
+
+            <div class="signal-row">
+                <span>Entry</span>
+                <strong>3352.50</strong>
+            </div>
+
+            <div class="signal-row">
+                <span>Stop Loss</span>
+                <strong>3345.00</strong>
+            </div>
+
+            <div class="signal-row">
+                <span>TP1</span>
+                <strong>3360.00</strong>
+            </div>
+
+            <div class="signal-row">
+                <span>TP2</span>
+                <strong>3368.00</strong>
+            </div>
+
+            <div class="signal-row">
+                <span>TP3</span>
+                <strong>3375.00</strong>
+            </div>
+
+            <div class="signal-row">
+                <span>Risk Reward</span>
+                <strong>1 : 3</strong>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<section id="faq" class="section">
+
+    <div class="container">
+
+        <h2>Frequently Asked Questions</h2>
+
+        <div class="faq-item">
+            <h3>Is it really free?</h3>
+            <p>Yes. MARKET BREAKDOWN 5.0 is currently offering free beta access.</p>
+        </div>
+
+        <div class="faq-item">
+            <h3>What market does it analyze?</h3>
+            <p>Currently focused on Gold (XAUUSD).</p>
+        </div>
+
+        <div class="faq-item">
+            <h3>How are signals delivered?</h3>
+            <p>Directly through Telegram.</p>
+        </div>
+
+    </div>
+
+</section>
+
+<section class="cta-section">
+
+    <div class="container">
+
+        <h2>
+            Be Among The First To Access
+            MARKET BREAKDOWN 5.0
+        </h2>
+
+        <p>
+            Join free beta access today.
+        </p>
+
+        <a href="#" class="btn-primary large-btn">
+            Join Free Access
+        </a>
+
+    </div>
+
+</section>
+
+<footer>
+
+    <p>
+        Trading involves risk. Past performance does not guarantee future results.
+        Information provided is for educational purposes only.
+    </p>
+
+</footer>
+
+<a href="#" class="floating-telegram">
+    Join Now
+</a>
+
+<script src="script.js"></script>
+
+</body>
+</html>
